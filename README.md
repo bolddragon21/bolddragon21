@@ -18,6 +18,7 @@ I can troubleshoot and maintain various computer hardware.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/electronic-devices-35/32/34-cpu-hardware-512.png" />
 <br/>
 <br/>
 <p align="left">
@@ -31,4 +32,4 @@ I can troubleshoot and maintain various computer hardware.
 <br/>
 <br/>
 <br/>
-please support me by starring my repo
+#please support me by starring my repo
