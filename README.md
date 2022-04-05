@@ -1,5 +1,5 @@
 ### Hi there 👋
-Name's Krish Mohan
+Name's Krish Mohan<br/>
 I'm a self-taught programmer with 2 years of devolepment experience. I started my journey with python then making my way into web-devolepment.
 I also familiarize myself with linux and its command line, through which i studied the basics of cybersec.
 I can troubleshoot and maintain various computer hardware.
