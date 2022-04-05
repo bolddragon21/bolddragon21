@@ -27,5 +27,8 @@ I can troubleshoot and maintain various computer hardware.
 ### Connect with me
 [<img align="left" alt="Twitter" width="80" src="https://github.com/bolddragon21/bolddragon21/blob/main/twitter.png" />](https://twitter.com/krishmohan3)
 [<img align="left" alt="_Instagram_" width="80" src="https://github.com/bolddragon21/bolddragon21/blob/main/instagram.jpg" />](https://www.instagram.com/_.dkrishm/)
-
+<br/>
+<br/>
+<br/>
+<br/>
 please support me by starring my repo
