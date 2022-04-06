@@ -24,6 +24,8 @@ I can troubleshoot and maintain various computer hardware.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=bolddragon21&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=ba51ce">
 </p>
